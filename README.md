@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <a href="http://twitter.com/milmemo_net">
-    <img height="20" src="https://img.shields.io/twitter/follow/milmemo_net?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/milmemo_net?label=Twitter follower&logo=twitter&style=flat&color=blue" />
   </a>
   <a href="https://github.com/mirumirumi">
-    <img height="20" src="https://img.shields.io/github/stars/mirumirumi?color=orange&label=GitHub%20stars" />
+    <img height="20" src="https://img.shields.io/github/stars/mirumirumi?color=orange&label=GitHub%20stars&logo=github&logo_color=orange" />
   </a>
   <a href="https://github.com/mirumirumi/">
-    <img src="https://komarev.com/ghpvc/?username=mirumirumi&color=orange" alt="mirumirumi" />
+    <img src="https://komarev.com/ghpvc/?username=mirumirumi&color=orange&logo=github" alt="mirumirumi" />
   </a>
   <a href="https://zenn.dev/mirumi">
     <img height="20" src="https://zenn.badge.nikaera.com/s/mirumi/likes" />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=mirumirumi&count_private=true&show_icons=true&title_color=f08216&icon_color=f08216" />
-  <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirumirumi&layout=compact&count_private=true&show_icons=true&title_color=f08216" />
+  <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirumirumi&layout=compact&count_private=true&show_icons=true&title_color=495b71" />
 </p>
 
 
