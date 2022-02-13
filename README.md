@@ -24,10 +24,10 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=mirumirumi&color=orange&logo=github" alt="mirumirumi" />
   </a>
   <a href="https://zenn.dev/mirumi">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/mirumi/likes" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/mirumi/likes?ver=1" />
   </a>
   <a href="https://zenn.dev/mirumi">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/mirumi/followers" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/mirumi/followers?ver=1" />
   </a>  
 </p>
 
