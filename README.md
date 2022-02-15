@@ -23,12 +23,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/mirumirumi/">
     <img src="https://komarev.com/ghpvc/?username=mirumirumi&color=orange&logo=github" alt="mirumirumi" />
   </a>
-  <a href="https://zenn.dev/mirumi">
+<!--   <a href="https://zenn.dev/mirumi">
     <img height="20" src="https://zenn.badge.nikaera.com/s/mirumi/likes" />
   </a>
   <a href="https://zenn.dev/mirumi">
     <img height="20" src="https://zenn.badge.nikaera.com/s/mirumi/followers" />
-  </a>  
+  </a>   -->
 </p>
 
 <p align="left"> 
