@@ -16,7 +16,7 @@
   </a>   -->
 </p>
 
-<p align="left"> 
+<p align="left">
   <img alt="aws certified" height="99.9px" src="https://images.credly.com/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" />
   <img alt="aws certified" height="99.9px" src="https://images.credly.com/images/ee741c0c-3d57-48e0-82e0-699a2170aa50/AWS-Security-Specialty-2020.png" />
 </p>
