@@ -33,11 +33,11 @@
 <p align="left">
   <a href="https://github.com/mirumirumi#gh-light-mode-only">
     <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=mirumirumi&count_private=true&show_icons=true&title_color=f08216&icon_color=f08216" />
-    <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirumirumi&layout=compact&count_private=true&show_icons=true&title_color=495b71&hide=html,css,javascript,visual+basic+.net,vue,scss,powershell,php,vbscript,batchfile" />
+    <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirumirumi&layout=compact&count_private=true&show_icons=true&title_color=495b71&hide=html,css,javascript,visual+basic+.net,vue,scss,powershell,php,vbscript,batchfile,hcl" />
   </a>
   <a href="https://github.com/mirumirumi#gh-dark-mode-only">
     <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=mirumirumi&count_private=true&show_icons=true&title_color=f08216&icon_color=f08216&theme=slateorange" />
-    <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirumirumi&layout=compact&count_private=true&show_icons=true&title_color=495b71&hide=html,css,javascript,visual+basic+.net,vue,scss,powershell,php,vbscript,batchfile&theme=slateorange" />
+    <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirumirumi&layout=compact&count_private=true&show_icons=true&title_color=495b71&hide=html,css,javascript,visual+basic+.net,vue,scss,powershell,php,vbscript,batchfile,hcl&theme=slateorange" />
   </a>
 </p>
 
