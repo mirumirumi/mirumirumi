@@ -28,11 +28,8 @@
     <!-- same -->
     <img alt="aws certified" height="99.9px" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
     <img alt="aws certified" height="99.9px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Security-Specialty_badge.75ad1e505c0241bdb321f4c4d9abc51c0109c54f.png" />
-    
-    <!--
-    <img alt="aws certified" height="99.9px" src="https://mirumi.me/wp-content/uploads/aws-certified-developer-associate-dark.png" />
-    <img alt="aws certified" height="99.9px" src="https://mirumi.me/wp-content/uploads/aws-certified-security-specialty-dark.png" />
-    -->
+    <!-- <img alt="aws certified" height="99.9px" src="https://mirumi.me/wp-content/uploads/aws-certified-developer-associate-dark.png" />
+    <img alt="aws certified" height="99.9px" src="https://mirumi.me/wp-content/uploads/aws-certified-security-specialty-dark.png" /> -->
   </a>
 </p>
 
