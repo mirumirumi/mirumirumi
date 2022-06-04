@@ -21,8 +21,8 @@
 
 <p align="left">
   <a href="https://github.com/mirumirumi#gh-light-mode-only">
-    <img alt="aws certified" height="99.9px" src="https://images.credly.com/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" />
-    <img alt="aws certified" height="99.9px" src="https://images.credly.com/images/ee741c0c-3d57-48e0-82e0-699a2170aa50/AWS-Security-Specialty-2020.png" />
+    <img alt="aws certified" height="99.9px" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
+    <img alt="aws certified" height="99.9px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Security-Specialty_badge.75ad1e505c0241bdb321f4c4d9abc51c0109c54f.png" />
   </a>
   <a href="https://github.com/mirumirumi#gh-dark-mode-only">
     <img alt="aws certified" height="99.9px" src="https://mirumi.me/wp-content/uploads/aws-certified-developer-associate-dark.png" />
