@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="http://twitter.com/milmemo_net">
+  <a href="http://twitter.com/mirumi">
     <img height="20" src="https://img.shields.io/twitter/follow/milmemo_net?label=Twitter%20Follower&logo=twitter&style=flat&color=blue" />
   </a>
   <a href="https://github.com/mirumirumi">
