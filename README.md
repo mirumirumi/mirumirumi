@@ -1,6 +1,6 @@
 <p align="left">
   <a href="http://twitter.com/mirumi">
-    <img height="20" src="https://img.shields.io/twitter/follow/milmemo_net?label=Twitter%20Follower&logo=twitter&style=flat&color=blue" />
+    <img height="20" src="https://img.shields.io/twitter/follow/mirumirutube?label=Twitter%20Follower&logo=twitter&style=flat&color=blue" />
   </a>
   <a href="https://github.com/mirumirumi">
     <img height="20" src="https://img.shields.io/github/stars/mirumirumi?color=orange&label=GitHub%20stars&logo=github&logo_color=orange" />
